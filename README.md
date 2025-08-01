@@ -25,7 +25,7 @@ A data analysis project using Power BI and MySQL, to explore and visualize real-
 
 ## Links
 - Dashboard Folder: [View Power BI Files](https://github.com/sachinbarker22/OLA-DashBoard)  
-- SQL Queries: [View SQL File](https://github.com/sachinbarker22/OLA-DashBoard/blob/main/SQL/queries.sql)
+- SQL Queries: [View SQL File](https://github.com/sachinbarker22/OLA-DashBoard/blob/main/Ola%20Dash%20Board%20Project/MYSQL%20Queries.sql)
 
 ---
 
