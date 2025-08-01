@@ -9,7 +9,7 @@ A data analysis project using Power BI and MySQL, to explore and visualize real-
 - Excel – Initial data cleanup and pre-processing   
 - MySQL – Querying structured data for pattern recognition  
 
---- 
+---  
 
 ## Folder Structure
 
